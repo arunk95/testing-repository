@@ -1,7 +1,7 @@
 Seminar2b
 ================
 Arun Kumar
-9 January 2018
+2018-01-09
 
 R Markdown
 ----------

@@ -1,7 +1,7 @@
 ---
 title: "Seminar2b"
 author: "Arun Kumar"
-date: "9 January 2018"
+date: "2018-01-09"
 output: github_document
 ---
 
@@ -22,3 +22,5 @@ summary(cars)
 > ggplot(data = mpg, 
 +        mapping = aes(x = displ, y = hwy)) +
 +   geom_point(mapping = aes(size=class, colour=drv))
+
+
