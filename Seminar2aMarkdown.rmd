@@ -1,6 +1,8 @@
 ---
 title: "Seminar2aMarkdown"
-output: html_document
+author: "Arun Kumar"
+date: "2018-01-09"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -27,13 +29,7 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
----
-title: "First markdown file"
-author: "Arun Kumar"
-date: "2018-01-09"
-output: html_document
-keep_md: true
----
+
 
 ```{r this will create a box}
 ```
