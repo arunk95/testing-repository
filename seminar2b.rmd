@@ -16,7 +16,7 @@ library(ggplot2)
 summary(mpg)
 ```
 
-```{r final graph plot}
+```{r final graph}
 ggplot(data = mpg,mapping = aes(x = displ, y = hwy)) + geom_point(mapping = aes(size=class, colour=drv))
 ```
 

@@ -41,4 +41,4 @@ ggplot(data = mpg,mapping = aes(x = displ, y = hwy)) + geom_point(mapping = aes(
 
     ## Warning: Using size for a discrete variable is not advised.
 
-![](seminar2b_files/figure-markdown_github/final%20graph%20plot-1.png)
+![](seminar2b_files/figure-markdown_github/final%20graph-1.png)
